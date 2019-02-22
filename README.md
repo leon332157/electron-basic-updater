@@ -24,7 +24,7 @@ Well, right now I am working on an Electron application for me and my collegues 
 ```
     $ npm install --save electron-basic-updater
 ```
-Now, inside the *main.js* file, call it like this:
+Now, inside the *index.js* file, call it like this:
 ```
     const Electron = require('electron');
     const Application = Electron.app;
