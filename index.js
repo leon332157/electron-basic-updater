@@ -27,7 +27,7 @@ const errors = [
 
 /**
  * */
-var Updater = {
+let Updater = {
     /**
      * The setup
      * */
